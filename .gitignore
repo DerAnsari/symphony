@@ -1,0 +1,10 @@
+.env
+/storage/
+storage/
+
+# IDE & Editor specific (Neovim, VSCode, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+.vim/
