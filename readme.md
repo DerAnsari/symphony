@@ -13,10 +13,10 @@
 - *Hosting* -  containarized into a docker containers via docker compose along with cicd pipeline for easy deployment and testing hosted on a local computer acting as a vps along with nginx
 
 ## Early feature set idea:
-- can play pause forward and backwards music
-- can shuffle 
-- can also make your own playlist 
-- can search the database of songs to pick which to play from artist
-- can also add and upload lossless music
-- can also download lossless music 
+- can play pause forward and backwards music,
+- can shuffle, 
+- can also make your own playlist, 
+- can search the database of songs to pick which to play from artist,
+- can also add and upload lossless music,
+- can also download lossless music,
 
