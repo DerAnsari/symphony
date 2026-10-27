@@ -1,6 +1,7 @@
 # Subject to Change
 <br>
-# The Goal:
+
+## The Goal:
 - a fullstack web application that can stream lossless music
 - have a database that has the songs themselft and is hosted 
 - backend pull the flac files and then reads and streams them outward to the front end
