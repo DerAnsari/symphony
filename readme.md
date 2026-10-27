@@ -1,3 +1,5 @@
+# Subject to Change
+<br>
 # The Goal:
 - a fullstack web application that can stream lossless music
 - have a database that has the songs themselft and is hosted 
@@ -16,3 +18,4 @@
 - can search the database of songs to pick which to play from artist
 - can also add and upload lossless music
 - can also download lossless music 
+
